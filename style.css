@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    width: 100%;
+    background-color: rgb(65, 64, 64);
+    color: beige;
+}
+
+h2{
+    font-size: 24px;
+    color: green;
+}
+
+pre{
+    font-size: 18px;
+}
